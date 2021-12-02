@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adventofcode", "adventofcode\adventofcode.csproj", "{041D0C04-557E-4DF7-B335-03E7A316EB3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day1part2", "day1part2\day1part2.csproj", "{FAEA746B-390F-404F-81BE-73AD5F5EE9A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day2part2", "day2part2\day2part2.csproj", "{8AA05FEB-1CB5-4B7B-8BDB-F6E453807551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{041D0C04-557E-4DF7-B335-03E7A316EB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041D0C04-557E-4DF7-B335-03E7A316EB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041D0C04-557E-4DF7-B335-03E7A316EB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041D0C04-557E-4DF7-B335-03E7A316EB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAEA746B-390F-404F-81BE-73AD5F5EE9A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAEA746B-390F-404F-81BE-73AD5F5EE9A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAEA746B-390F-404F-81BE-73AD5F5EE9A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAEA746B-390F-404F-81BE-73AD5F5EE9A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA05FEB-1CB5-4B7B-8BDB-F6E453807551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA05FEB-1CB5-4B7B-8BDB-F6E453807551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA05FEB-1CB5-4B7B-8BDB-F6E453807551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA05FEB-1CB5-4B7B-8BDB-F6E453807551}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

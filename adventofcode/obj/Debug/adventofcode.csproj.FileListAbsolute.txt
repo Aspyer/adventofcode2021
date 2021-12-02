@@ -1,0 +1,6 @@
+C:\Users\basdu\RiderProjects\adventofcode\adventofcode\bin\Debug\adventofcode.exe
+C:\Users\basdu\RiderProjects\adventofcode\adventofcode\bin\Debug\adventofcode.pdb
+C:\Users\basdu\RiderProjects\adventofcode\adventofcode\obj\Debug\adventofcode.csprojAssemblyReference.cache
+C:\Users\basdu\RiderProjects\adventofcode\adventofcode\obj\Debug\adventofcode.csproj.CoreCompileInputs.cache
+C:\Users\basdu\RiderProjects\adventofcode\adventofcode\obj\Debug\adventofcode.exe
+C:\Users\basdu\RiderProjects\adventofcode\adventofcode\obj\Debug\adventofcode.pdb
