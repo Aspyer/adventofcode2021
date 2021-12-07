@@ -8,7 +8,7 @@ namespace day6
     {
         public static List<int> depths = new List<int>();
 
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             List<int> fishPop = new List<int>();
             int numDays = 1;
