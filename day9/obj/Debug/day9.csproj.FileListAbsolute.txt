@@ -1,0 +1,7 @@
+C:\Users\basdu\RiderProjects\adventofcode\day9\bin\Debug\day9.exe
+C:\Users\basdu\RiderProjects\adventofcode\day9\bin\Debug\day9.pdb
+C:\Users\basdu\RiderProjects\adventofcode\day9\obj\Debug\day9.csproj.AssemblyReference.cache
+C:\Users\basdu\RiderProjects\adventofcode\day9\obj\Debug\day9.csproj.SuggestedBindingRedirects.cache
+C:\Users\basdu\RiderProjects\adventofcode\day9\obj\Debug\day9.csproj.CoreCompileInputs.cache
+C:\Users\basdu\RiderProjects\adventofcode\day9\obj\Debug\day9.exe
+C:\Users\basdu\RiderProjects\adventofcode\day9\obj\Debug\day9.pdb
